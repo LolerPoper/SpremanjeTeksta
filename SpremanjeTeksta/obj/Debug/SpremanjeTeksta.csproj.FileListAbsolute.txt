@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\bin\Debug\SpremanjeTeksta.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\bin\Debug\SpremanjeTeksta.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\bin\Debug\SpremanjeTeksta.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\SpremanjeTeksta\obj\Debug\SpremanjeTeksta.pdb
